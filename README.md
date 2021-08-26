@@ -22,3 +22,12 @@ Use Microsoft's d3d12 mesa gallium driver replace native opengl driver, which ca
 `glut.dll`自编译的修改版glut  Modified glut compiled by myself  
 `superhexagon.exe`修改版的游戏主程序  Modified game executable  
 `dxil.dll,libglapi.dll,opengl32.dll`包含d3d12驱动的Mesa库  Mesa binary with d3d12 support  
+
+## 支持我Support me
+1. 你可以在知乎、头条、B站、YouTube搜索`@琴梨梨`并点个关注  
+2. 你可以给本项目点个star和watch，并分享本项目给更多需要的人  
+3. 你可以[访问这里](https://qinlili.bid/Support/)获取更多直接支持琴梨梨的方法  
+4. 你可以向琴梨梨送一些Steam库存内的集换式卡牌或其他道具，使用这个[交易链接](https://steamcommunity.com/tradeoffer/new/?partner=316537125&token=k-jMd5b9)  
+  
+1. You can give star/watch to this repo and share it to more people in need  
+2. You can send cards or other items in Steam inventory to me use this [trade link](https://steamcommunity.com/tradeoffer/new/?partner=316537125&token=k-jMd5b9)  

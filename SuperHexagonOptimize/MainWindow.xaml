@@ -13,7 +13,7 @@
         <Button x:Name="dpiBtn" Content="启用DPI优化 Enable DPI optimization" HorizontalAlignment="Center" Margin="0,129,0,0" VerticalAlignment="Top" Height="24" Width="327"/>
         <Button x:Name="d3d12Btn" Content="启用d3d12优化 Enable d3d12 optimization" HorizontalAlignment="Center" Margin="0,158,0,0" VerticalAlignment="Top" Height="24" Width="327"/>
         <Label x:Name="readme" HorizontalAlignment="Center" Margin="0,187,0,0" VerticalAlignment="Top" Height="165" Width="327">
-            <TextBlock TextWrapping="Wrap" Text="版本1.0.0 琴梨梨&#13;Ver1.0.0 Qinlili&#13;glut优化可在所有机器上降低延迟和卡顿&#13;DPI优化可解决高分屏模糊问题&#13;d3d12优化可在较新的显卡上显著降低延迟和卡顿&#13;glut optimization can decrese latency on all devices.&#13;DPI optimization can solve blur on high resolution screens.&#13;d3d12 optimization can miraculously decrease latency and lag on devices with new GPU."/>
+            <TextBlock TextWrapping="Wrap" Text="版本1.0.1 琴梨梨&#13;Ver1.0.1 Qinlili&#13;glut优化可在所有机器上降低延迟和卡顿&#13;DPI优化可解决高分屏模糊问题&#13;d3d12优化可在较新的显卡上显著降低延迟和卡顿&#13;glut optimization can decrese latency on all devices.&#13;DPI optimization can solve blur on high resolution screens.&#13;d3d12 optimization can miraculously decrease latency and lag on devices with new GPU."/>
         </Label>
 
     </Grid>

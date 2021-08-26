@@ -7,6 +7,10 @@
     <UseWPF>true</UseWPF>
     <Platforms>AnyCPU;x64</Platforms>
     <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Version>1.0.1</Version>
+    <Authors>Qinlili</Authors>
+    <Company>GlacierLab</Company>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>

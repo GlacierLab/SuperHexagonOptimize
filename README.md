@@ -2,6 +2,9 @@
 降低延迟消灭卡顿！  
 Reduce Lags/Latency in SuperHexagon  
 
+## 由于2022/05/31的游戏更新，本项目不再可用
+## Due to game update on 2022/05/31, this project won't work any more.
+
 ## 如何使用？How to use?
 下载Release内的压缩包，解压全部文件到游戏根目录，运行`SuperHexagonOptimize.exe`  
 Download release pacgake and extract all files to game directory, then run `SuperHexagonOptimize.exe`.  

@@ -13,6 +13,11 @@ Download release pacgake and extract all files to game directory
 本工具通过DLL Wrapper在游戏启动时注入游戏，设置环境变量来强制使用Vulkan渲染并开启高DPI缩放支持  
 This tool injects into game at startup via DLL Wrapper, set environment variables to force use Vulkan renderer and enable high DPI scaling support  
 
+## 参考 Reference
+https://github.com/FNA-XNA/FNA/wiki/7%3A-FNA-Environment-Variables#fna3d_force_driver  
+https://github.com/SeanPesce/DLL_Wrapper_Generator  
+
+
 ## 支持我Support me
 1. 你可以在知乎、头条、B站、YouTube搜索`@琴梨梨`并点个关注  
 2. 你可以给本项目点个star和watch，并分享本项目给更多需要的人  
